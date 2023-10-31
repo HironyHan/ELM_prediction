@@ -4,6 +4,6 @@ This study delves into the predictive modeling of Dengue fever transmission, a m
 ## Availbility
 Users could use the code as follows to clone the whole repository.
 
-```git clone https://github.com/HironyHan/ELM_prediction elm```
+    git clone https://github.com/HironyHan/ELM_prediction elm
 
 This cloned repo is your project install directory. It's helpful to name it something clear and concise like "elm" (as in the final parameter above).
